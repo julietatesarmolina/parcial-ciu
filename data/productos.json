@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Flat White", "precio": 500 },
+  { "id": 2, "nombre": "Café Latte", "precio": 600 },
+  { "id": 3, "nombre": "Té Negro", "precio": 400 },
+  { "id": 4, "nombre": "Mate Cocido", "precio": 350 },
+  { "id": 1, "nombre": "Medialunas", "precio": 500 }
+]
